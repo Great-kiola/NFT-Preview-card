@@ -81,3 +81,10 @@ img {
     border-radius: 20px;
     padding-bottom: 30px;
 }
+
+hr.line {
+    /* border: 0; */
+    height: 20px;
+    background: white;
+    background-image: linear-gradient(to right, #ccc, #095484, #ccc);
+}
