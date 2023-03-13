@@ -15,6 +15,9 @@ w3schools, Mdn Docs, and some websites i cant remember
 ## License
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
+## Deployed Page
+https://great-kiola.github.io/NFT-Preview-card/
+
 ## Screenshot
 <img width="1277" alt="image" src="https://user-images.githubusercontent.com/117322790/224633747-28d28c31-5ac4-43ab-b114-4f4d5d4c00e5.png">
 
