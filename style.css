@@ -5,14 +5,14 @@
 }
 
 .attribution {
-    margin-top: -80px;
-    font-size: 15px;
-    text-align: center;
-    color: white;
+  margin-top: -80px;
+  font-size: 15px;
+  text-align: center;
+  color: white;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+  color: hsl(228, 45%, 44%);
 }
 
 body {
@@ -20,23 +20,20 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-}
-
-main {
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
   background-color: hsl(217, 54%, 11%);
+  flex-direction: column;
 }
 
 .container {
   background-color: hsl(216, 50%, 16%);
   border-radius: 20px;
   width: 400px;
-  height: 42vh;
   padding: 25px;
-  margin: auto;
+  margin: 150px auto;
 }
 
 p {
@@ -56,7 +53,7 @@ p {
 
 h1 {
   color: white;
-  padding-top: 1x;
+  padding-top: 1px;
   font-size: 1.6rem;
 }
 
@@ -91,16 +88,14 @@ a {
 
 .pfpImage img {
   margin-right: 10px;
-}
-
-.pfpImage p {
-    padding: 5px;
-}
-
-.pfpImage img {
   width: 50px;
   height: 50px;
 }
+
+.pfpImage p {
+  padding: 5px;
+}
+
 
 hr {
   background-color: #647a99;
